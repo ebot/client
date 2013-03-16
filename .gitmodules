@@ -10,3 +10,6 @@
 [submodule "drivers/ninja-limitlessLED"]
 	path = drivers/ninja-limitlessLED
 	url = https://github.com/jzGreen/ninja-limitlessLED.git
+[submodule "drivers/ninja-xbmc"]
+	path = drivers/ninja-xbmc
+	url = https://github.com/elliots/ninja-xbmc.git
